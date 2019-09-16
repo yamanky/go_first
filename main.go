@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 
-	"db"
+	"github.com/go_first/db"
 )
 
 func main() {
